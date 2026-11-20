@@ -24,7 +24,7 @@ Key areas explored:
 - Average delivery times across city tiers.
 - Order cancellation rates.
 
-**Project findings and documentation:**Available in the project files.
+**Project findings and documentation:** Available in the project files
 
 ##  Education and Professional Development
 - Diploma in Business and Information Administration.
@@ -41,5 +41,6 @@ Key areas explored:
 ##  Objective
 My objective is to continue developing practical data analytics skills and build a portfolio that demonstrates my ability to transform raw data into meaningful business insights.
 
-*This repository showcases my learning journey, practical projects and professional development in data analytics.*
+
+
 
