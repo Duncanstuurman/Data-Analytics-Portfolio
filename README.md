@@ -1,58 +1,45 @@
-# Food Delivery Performance Analysis                                                                                                                 
-## 1. Project Overview 
-This project analyses food delivery operations using Excel and Power BI. The aim is to identify performance trends, delivery delays, order patterns and cancellation rates to support better business decision-making.
+# Data Analytics Portfolio                                                                                                                
+##  About Me
+I am an aspiring Data Analyst with a background in Business and Information Administration and practical exposure to data-related administrative and business operations.
 
-## 2. Business Objectives
-- Analyse order volumes and trends
-- Evaluate delivery performance
-- Identify late deliveries.
-- Examine order cancellations.
-- Provide recommendations to improve operations.
+I am developing my analytical skills through practical projects, focusing on using data to identify trends, generate insights and support informed business decision-making.
+
+##  Technical Skills
+- **Microsoft Excel:** Data cleaning, preparation and analysis.
+- **Power BI:** Data visualisation, dashboard development and reporting.
+- **Power Query:** Data transformation and preparation
+- **DAX:** Measures and KPI development.
+- **Data Analysis:** Identifying trends, interpreting findings and developing business recommendations.
    
-## 3. Tools Used
-- Microsoft Excel: Data cleaning, preparation and analysis.
-- Power Query: Data transformation and preparation.
-- Power BI: Data modelling, DAX measures, KPI development and dashboard creation.
+##  Projects
+**Food Delivery Performance Analysis**
 
-## 4. Project Process
-- Cleaned and prepared the dataset in Excel.
-- Documented data quality issues and cleaning activities.
-- Imported the cleaned data into Power BI.
-- Used Power Query to prepare the data.
-- Created DAX measures and KPIs.
-- Developed an interactive dashboard.
-- Analysed findings and provided business recommendations.
+**Tools:** Microsoft Excel and Power BI.
 
-## 5. Key Findings
-- Late Deliveries: 47.8% of orders were delivered later than estimated.
-- Monthly Orders: Month 8 recorded the highest order volume, while Month 11 recorded the lowest.
-- Daily Orders: Day 1 recorded significantly more orders than the other recorded days.
-- Delivery Time: City Tier 3 had the highest average delivery time at 94.33 minutes.
-- Cancellations: 13.35% of orders were cancelled.
+Analysed 15,000 food delivery records to evaluate operational performance, order trends, delivery delays and cancellations.
 
-## 6. Business Recommendations
-- Investigate factors contributing to late deliveries.
-- Review operational planning and delivery scheduling.
-- Investigate differences in daily order volumes.
-- Monitor delivery performance across city tiers.
-- Identify the main causes of order cancellations.
+Key areas explored:
+- Delivery performance and late deliveries.
+- Monthly and daily order patterns.
+- Average delivery times across city tiers.
+- Order cancellation rates.
 
-## 7. Project Limitations
-The dataset contains some data quality limitations, including missing ratings, missing tip amounts and only six recorded days of the week. These limitations should be considered when interpreting the results.
+**Project findings and documentation:**Available in the project files.
 
-## 8. Skills Demonstrated
-- Data cleaning and preparation
-- Microsoft Excel
-- Power Query
-- DAX
-- KPI development
-- Power BI dashboard development
-- Data analysis and interpretation
-- Business insights and recommendations
+##  Education and Professional Development
+- Diploma in Business and Information Administration.
+- Practical workplace experience in administration, data-related tasks and software support.
+- Continuous development in data analytics, business intelligence and data visualisation.
+  
+##  Career Interests
+- Data Analytics
+- Business Intelligence
+- Data Reporting
+- Business Performance Analysis
+- Operational and Supply Chain Analytics
 
-## 9. Project Deliverables
-- Excel workbook containing the raw dataset, cleaned dataset and data cleaning log.
-- Power BI dashboard.
-- Project documentation.
-- Dashboard screenshots.
+##  Objective
+My objective is to continue developing practical data analytics skills and build a portfolio that demonstrates my ability to transform raw data into meaningful business insights.
+
+*This repository showcases my learning journey, practical projects and professional development in data analytics.*
 
