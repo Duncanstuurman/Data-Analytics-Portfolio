@@ -1,2 +1,1 @@
-# E-commerce-Delivery-Performance-Analysis
-Data analysis project investigating e-commerce delivery performance using Microsoft Excel and Power BI.
+Project overview: This project analyses food delivery business performance using Microsoft Excel and Microsoft Power BI.The objective was to examine order patterns, delivery performance and order cancellations, identify operational challenges and develop recommendations to support business decision-making.The analysis was conducted using a dataset containing 15,000 records and 30 columns.                                                                                                                        
